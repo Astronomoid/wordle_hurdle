@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[128]:
-
-
 import numpy as np
 import pandas as pd
 import tkinter as tk
@@ -166,10 +163,3 @@ if GUI:
     print_words(words=words_to_print)
 else:
     print(words_to_print)
-
-
-# In[ ]:
-
-
-
-
